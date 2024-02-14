@@ -4,5 +4,5 @@ This my exercise slicing Pet'flix from "https://www.youtube.com/watch?v=HgaJW2I4
 
 
 ## Screenshots
-![Web Screenshot]("https://github.com/petershaan12/netflix-clone/blob/main/public/screenshot.png?raw=true")
+![Web Screenshot](https://github.com/petershaan12/netflix-clone/blob/main/public/screenshot.png?raw=true)
 
